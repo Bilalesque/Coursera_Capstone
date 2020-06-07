@@ -1,6 +1,6 @@
 # Finding Pharmacy Close To Your Neighborhood
 
-*Data Science Capstone - IBM Data Science Professional Certificate on Coursera*
+**_Data Science Capstone - IBM Data Science Professional Certificate on Coursera_**
 
 ## Introduction
 
